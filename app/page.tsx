@@ -55,7 +55,7 @@ export default function Home() {
             isButtonDisabled ? "opacity-50 cursor-not-allowed" : ""
           }`}
         >
-          Next
+          Next Page 
         </button>
       </Link>
     </div>
